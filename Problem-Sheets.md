@@ -2,6 +2,7 @@
 layout: page
 title: "Problem Sheets"
 permalink: /problem-sheets
+layout: default
 ---
 # Problem Sheets
 Here problem sheets will be posted.
