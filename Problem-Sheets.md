@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Problem Sheets"
-permalink: /problem sheets
+permalink: /problem-sheets
 ---
